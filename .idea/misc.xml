@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TRABAJO/ANDROID/Food/app/src/main/res/layout/activity_main.xml" value="0.24722222222222223" />
+        <entry key="..\:/TRABAJO/ANDROID/Food/app/src/main/res/layout/food_item.xml" value="0.3212962962962963" />
+        <entry key="..\:/TRABAJO/ANDROID/Food/app/src/main/res/layout/fragment_detail_screen.xml" value="0.3212962962962963" />
+        <entry key="..\:/TRABAJO/ANDROID/Food/app/src/main/res/layout/fragment_home_screen.xml" value="0.3212962962962963" />
+        <entry key="..\:/TRABAJO/ANDROID/Food/app/src/main/res/layout/fragment_map_screen.xml" value="0.3212962962962963" />
+        <entry key="..\:/TRABAJO/ANDROID/Food/app/src/main/res/layout/home_screen.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="FoodApp.app" />
+      </set>
+    </option>
+  </component>
+</project>
